@@ -1,2 +1,2 @@
 # practice
-for learning Git and Github
+to learn about repositories and how to make commits
